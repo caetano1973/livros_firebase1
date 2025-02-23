@@ -27,7 +27,12 @@ Agradecemos suas contribuições! Para colaborar, pode fazer Pull request.
 
 ## Material de apoio.
 
-Acesse alguns tópicos para melhor entendimento em  https://g.co/gemini/share/405c3d72c372
+Acesse alguns tópicos para melhor entendimento em 
+https://vite.dev/
+https://firebase.google.com/docs?hl=pt-br
+https://react.dev/
+
+
 
 
 ## Licença
